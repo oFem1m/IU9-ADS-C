@@ -1,4 +1,4 @@
-<h1 align="center">Algorithms and data structures</h1>
+<h1 align="center">Алгоритмы и структуры данных</h1>
 
 ## 1. Изучение языка C
 ### 1.1 Полином (`polynom.c`)
